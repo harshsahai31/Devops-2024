@@ -1,1 +1,2 @@
-s this is feature 1 we are making cool feature
+s this is feature 1 we are making cool featur
+adding more feature in feature 1 
